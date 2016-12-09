@@ -1,0 +1,2 @@
+Add Amazon search to Rightclick menu
+Highlight and right click to search for the selected text on Amazon.

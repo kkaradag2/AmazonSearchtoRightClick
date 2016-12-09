@@ -3,7 +3,7 @@
       "persistent": false,
       "scripts": [ "rightclick.js" ]
    },
-   "description": "Add Amazon search to Rightclick menu on your browser",
+   "description": "Add Amazon search to Rightclick menu on your browser.",
    "icons": {
       "128": "icons/i128.png",
       "16": "icons/i16.png",
@@ -11,7 +11,7 @@
    },
    
    "manifest_version": 2,
-   "name": "Right Click Search Amazon",
+   "name": "Right Click to Search Amazon",
    "permissions": [ "contextMenus" ],
    "short_name": "Highlight, RightClick, Search Amazon",
    "version": "1.0"
